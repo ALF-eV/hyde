@@ -1,3 +1,14 @@
+# Fork from Hyde
+
+---
+
+---
+
+## Original README:
+
+<br>
+
+
 # Hyde
 
 Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name.
